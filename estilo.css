@@ -1,0 +1,109 @@
+h1{
+    text-align: center; /* Deixa texto no meio */
+    color: #ffffff;
+    background-color: rgb(255, 115, 0);
+}
+p{
+    font-size: 20px;
+    color: rgb(231, 163, 163);
+    
+}
+.gp2{
+    font-size: 16px;
+}
+#compre{
+    color: #ffffff;
+    background-color: green;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+}
+.A{
+    height: auto;
+    width: 50px;
+    border: black solid;
+    padding-left: 20px;
+    float: left;
+}
+.B{
+    height: auto;
+    width: 50px;
+    margin-left: 5px;
+    border: black solid;
+    padding-left: 20px;
+    float: left;
+}
+.C{
+    height: auto;
+    width: 50px;
+    margin-left: 110px;
+    border: black solid;
+    padding-left: 20px;
+}
+.D{
+    height: auto;
+    width: 50px;
+    margin-top: 5px;
+    border: black solid;
+    padding-left: 20px;
+}
+.gp1{
+    color: cornflowerblue;
+    font-size: 30px;
+}
+.A1{
+    height: auto;
+    width: 50px;
+    border: black solid;
+    padding-left: 20px;
+    float: left;
+    }
+.A2{
+   height: auto;
+    width: 50px;
+    margin-left: 5px;
+    border: black solid;
+    padding-left: 20px;
+    float: left;
+}
+.A3{
+    height: auto;
+    width: 50px;
+    margin-left: 110px;
+    border: black solid;
+    padding-left: 20px;
+}
+.A4{
+    height: auto;
+    width: 60px;
+    margin-top: 5px;
+    border: black solid;
+    padding-left: 20px;
+    float: left;
+}
+.A5{
+    height: auto;
+    width: 55px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: black solid;
+    padding-left: 20px;
+    float: left;
+}
+.A6{
+    height: auto;
+    width: 65px;
+    margin-left: 125px;
+    margin-top: 21px;
+    border: black solid;
+    padding-left: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    }
+.card{
+    margin-left: 30px;
+    margin-top: 30px;
+}
