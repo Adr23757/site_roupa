@@ -1,31 +1,37 @@
-h1{
-    text-align: center; /* Deixa texto no meio */
+h1 {
+    text-align: center;
+    /* Deixa texto no meio */
     color: #ffffff;
     background-color: rgb(255, 115, 0);
 }
-p{
+
+p {
     font-size: 20px;
     color: rgb(231, 163, 163);
-    
+
 }
-.gp2{
+
+.gp2 {
     font-size: 16px;
 }
-#compre{
+
+#compre {
     color: #ffffff;
     background-color: green;
     height: 40px;
     width: 150px;
     border-radius: 10px;
 }
-.A{
+
+.A {
     height: auto;
     width: 50px;
     border: black solid;
     padding-left: 20px;
     float: left;
 }
-.B{
+
+.B {
     height: auto;
     width: 50px;
     margin-left: 5px;
@@ -33,47 +39,54 @@ p{
     padding-left: 20px;
     float: left;
 }
-.C{
+
+.C {
     height: auto;
     width: 50px;
     margin-left: 110px;
     border: black solid;
     padding-left: 20px;
 }
-.D{
+
+.D {
     height: auto;
     width: 50px;
     margin-top: 5px;
     border: black solid;
     padding-left: 20px;
 }
-.gp1{
+
+.gp1 {
     color: cornflowerblue;
     font-size: 30px;
 }
-.A1{
+
+.A1 {
     height: auto;
     width: 50px;
     border: black solid;
     padding-left: 20px;
     float: left;
-    }
-.A2{
-   height: auto;
+}
+
+.A2 {
+    height: auto;
     width: 50px;
     margin-left: 5px;
     border: black solid;
     padding-left: 20px;
     float: left;
 }
-.A3{
+
+.A3 {
     height: auto;
     width: 50px;
     margin-left: 110px;
     border: black solid;
     padding-left: 20px;
 }
-.A4{
+
+.A4 {
     height: auto;
     width: 60px;
     margin-top: 5px;
@@ -81,7 +94,8 @@ p{
     padding-left: 20px;
     float: left;
 }
-.A5{
+
+.A5 {
     height: auto;
     width: 55px;
     margin-left: 5px;
@@ -90,7 +104,8 @@ p{
     padding-left: 20px;
     float: left;
 }
-.A6{
+
+.A6 {
     height: auto;
     width: 65px;
     margin-left: 125px;
@@ -99,11 +114,16 @@ p{
     padding-left: 20px;
 }
 
-.container{
+.container1 {
     display: flex;
     justify-content: center;
-    }
-.card{
+}
+
+.card {
     margin-left: 30px;
     margin-top: 30px;
+}
+
+.navbar {
+    background-color: orange;
 }
